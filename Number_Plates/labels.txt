@@ -1,0 +1,2 @@
+0 With_Number_Plates
+1 Without_Number_Plates
